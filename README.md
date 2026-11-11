@@ -80,7 +80,7 @@ A local-first development agent that explores codebases, works with tools, edits
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-4matthedev-181717?style=for-the-badge&logo=github)](https://github.com/4matthedev)
-[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/4matthedevv/)
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1474804138352316598)
 
 <br/>
 
