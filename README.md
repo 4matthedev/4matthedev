@@ -81,6 +81,7 @@ A local-first development agent that explores codebases, works with tools, edits
 
 [![GitHub](https://img.shields.io/badge/GitHub-4matthedev-181717?style=for-the-badge&logo=github)](https://github.com/4matthedev)
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1474804138352316598)
+[![Email](https://img.shields.io/badge/Email-4matthedev%40gmail.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:4matthedev@gmail.com)
 
 <br/>
 
