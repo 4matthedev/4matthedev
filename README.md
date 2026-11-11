@@ -8,14 +8,6 @@
 
 I build tools, explore systems, and enjoy solving problems through code.
 
-<br/>
-
-
-
-</div>
-
----
-
 ## `01 / ABOUT`
 
 I'm a developer interested in building useful software and understanding how things work beneath the surface.
