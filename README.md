@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-4matthedev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4matthedev)
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1474804138352316598)
-[![Email](https://img.shields.io/badge/Email-Contact-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4matthedev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4matthedev@gmail.com)
 
 </div>
 
@@ -48,10 +48,10 @@ I like exploring different programming languages, experimenting with systems, an
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-181717?style=for-the-badge&logo=fedora&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-181717?style=for-the-badge&logo=wayland&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -66,7 +66,7 @@ I like exploring different programming languages, experimenting with systems, an
 
 **A local-first autonomous coding agent built with Go.**
 
-[![Repository](https://img.shields.io/badge/Explore-Metis_Agent-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4matthedev/metis-agent)
+[![Repository](https://img.shields.io/badge/Explore-Metis_Agent-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4matthedev/metis-agent)
 
 </div>
 
@@ -78,12 +78,12 @@ An ongoing project focused on local AI, autonomous coding workflows, and practic
 
 <div align="center">
 
-![Intel Core i7-8700K](https://img.shields.io/badge/CPU-Intel_Core_i7--8700K-181717?style=for-the-badge&logo=intel&logoColor=white)
-![RTX 3060](https://img.shields.io/badge/GPU-RTX_3060_12GB-181717?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel Core i7-8700K](https://img.shields.io/badge/CPU-Intel_Core_i7--8700K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![RTX 3060](https://img.shields.io/badge/GPU-RTX_3060_12GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-![RAM](https://img.shields.io/badge/RAM-32GB-181717?style=for-the-badge)
-![Fedora](https://img.shields.io/badge/OS-Fedora_Linux-181717?style=for-the-badge&logo=fedora&logoColor=white)
-![Hyprland](https://img.shields.io/badge/WM-Hyprland-181717?style=for-the-badge&logo=wayland&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-32GB-555555?style=for-the-badge)
+![Fedora](https://img.shields.io/badge/OS-Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Hyprland](https://img.shields.io/badge/WM-Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
 
 </div>
 
@@ -107,8 +107,8 @@ An ongoing project focused on local AI, autonomous coding workflows, and practic
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-4matthedev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4matthedev)
-[![Discord](https://img.shields.io/badge/Discord-Connect-181717?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1474804138352316598)
-[![Email](https://img.shields.io/badge/Email-4matthedev%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4matthedev@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1474804138352316598)
+[![Email](https://img.shields.io/badge/Email-4matthedev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4matthedev@gmail.com)
 
 <br/>
 
