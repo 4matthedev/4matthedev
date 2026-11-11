@@ -28,21 +28,8 @@ I enjoy working on independent projects, exploring different technologies, and t
 - Interested in systems, automation, and problem-solving
 - Always learning by building
 
-## `02 / CURRENTLY BUILDING`
 
-<div align="center">
-
-### [METIS AGENT](https://github.com/4matthedev/metis-agent)
-
-**An autonomous coding agent built with Go.**
-
-A local-first development agent that explores codebases, works with tools, edits files, and verifies changes.
-
-[![Explore Metis](https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4matthedev/metis-agent)
-
-</div>
-
-## `03 / PROGRAMMING LANGUAGES`
+## `02 / PROGRAMMING LANGUAGES`
 
 <div align="center">
 
@@ -54,7 +41,7 @@ A local-first development agent that explores codebases, works with tools, edits
 
 </div>
 
-## `04 / TECHNOLOGIES & INTERESTS`
+## `03 / TECHNOLOGIES & INTERESTS`
 
 <div align="center">
 
@@ -65,7 +52,7 @@ A local-first development agent that explores codebases, works with tools, edits
 
 </div>
 
-## `05 / WHAT I VALUE`
+## `04 / WHAT I VALUE`
 
 ```text
 > Understand before building.
@@ -75,7 +62,7 @@ A local-first development agent that explores codebases, works with tools, edits
 > Improve continuously.
 ```
 
-## `06 / FIND ME`
+## `05 / FIND ME`
 
 <div align="center">
 
