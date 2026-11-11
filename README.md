@@ -8,7 +8,7 @@
 **Turning ideas into working software.**
 
   <div align="center">
-  <img src="assets/github-header-banner.png" width="100%" alt="4matthedev GitHub Banner"/>
+  <img src="assets/github-header-banner.png" width="50%" alt="4matthedev GitHub Banner"/>
   </div>
 
 <br/>
