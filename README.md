@@ -10,7 +10,7 @@ I build tools, explore systems, and enjoy solving problems through code.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-4matthedev-0d1117?style=for-the-badge&logo=github)](https://github.com/4matthedev)
+
 
 </div>
 
