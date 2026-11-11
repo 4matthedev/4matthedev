@@ -75,6 +75,19 @@ I enjoy working on independent projects, exploring different technologies, and t
 
 </div>
 
+## `06 / HARDWARE & ENVIRONMENT`
+
+<div align="center">
+
+![Intel Core i7-8700K](https://img.shields.io/badge/CPU-Intel_Core_i7--8700K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![NVIDIA RTX 3060](https://img.shields.io/badge/GPU-RTX_3060_12GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![32GB RAM](https://img.shields.io/badge/RAM-32GB-555555?style=for-the-badge)
+![Fedora Linux](https://img.shields.io/badge/OS-Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Hyprland](https://img.shields.io/badge/WM-Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
+
+</div>
+
 [![GitHub](https://img.shields.io/badge/4matthedev-181717?style=for-the-badge&logo=github)](https://github.com/4matthedev)
 
 <br/>
