@@ -2,13 +2,14 @@
 
   ## `4matthedev`
 
-  <div align="center">
-  <img src="assets/github-header-banner.png" width="100%" alt="4matthedev GitHub Banner"/>
-</div>
 
 ### SOFTWARE DEVELOPER · SYSTEMS ENTHUSIAST · BUILDER
 
 **Turning ideas into working software.**
+
+  <div align="center">
+  <img src="assets/github-header-banner.png" width="100%" alt="4matthedev GitHub Banner"/>
+  </div>
 
 <br/>
 
