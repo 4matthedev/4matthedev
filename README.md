@@ -4,7 +4,11 @@
 
 ### SOFTWARE DEVELOPER · SYSTEMS ENTHUSIAST · BUILDER
 
-*Turning ideas into working software.*
+<br/>
+
+<img src="assets/rotating-donut.gif" width="420" alt="Rotating ASCII Donut"/>
+
+</div>
 
 <br/>
 
