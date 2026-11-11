@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**4matthedev/4matthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `4Mat`
 
-Here are some ideas to get you started:
+### SOFTWARE DEVELOPER · BUILDER · PROBLEM SOLVER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Turning ideas into working software.**
+
+I build tools, explore systems, and enjoy solving problems through code.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-4matthedev-0d1117?style=for-the-badge&logo=github)](https://github.com/4matthedev)
+
+</div>
+
+---
+
+## `01 / ABOUT`
+
+I'm a developer interested in building useful software and understanding how things work beneath the surface.
+
+I enjoy working on independent projects, exploring different technologies, and turning ideas into practical tools.
+
+- Building software and developer tools
+- Working with multiple programming languages
+- Exploring AI-powered applications and agent architectures
+- Interested in systems, automation, and problem-solving
+- Always learning by building
+
+## `02 / CURRENTLY BUILDING`
+
+<div align="center">
+
+### [METIS AGENT](https://github.com/4matthedev/metis-agent)
+
+**An autonomous coding agent built with Go.**
+
+A local-first development agent that explores codebases, works with tools, edits files, and verifies changes.
+
+[![Explore Metis](https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4matthedev/metis-agent)
+
+</div>
+
+## `03 / PROGRAMMING LANGUAGES`
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+## `04 / TECHNOLOGIES & INTERESTS`
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AI](https://img.shields.io/badge/AI_&_LLMs-8B5CF6?style=for-the-badge)
+![Developer Tools](https://img.shields.io/badge/Developer_Tools-30363D?style=for-the-badge)
+
+</div>
+
+## `05 / WHAT I VALUE`
+
+```text
+> Understand before building.
+> Keep things simple.
+> Build useful things.
+> Learn by experimenting.
+> Improve continuously.
+```
+
+## `06 / FIND ME`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/4matthedev-181717?style=for-the-badge&logo=github)](https://github.com/4matthedev)
+
+<br/>
+
+**BUILD · BREAK · UNDERSTAND · IMPROVE**
+
+</div>
