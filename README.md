@@ -6,6 +6,10 @@
 
 **Turning ideas into working software.**
 
+<div align="center">
+  <img src="assets/github-header-banner.png" width="100%" alt="4matthedev GitHub Banner"/>
+</div>
+
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-4matthedev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4matthedev)
